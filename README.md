@@ -109,3 +109,19 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 ## 📄 License
 
 This repository is maintained for learning, interview preparation, and educational purposes.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+<!---LeetCode Topics End-->
