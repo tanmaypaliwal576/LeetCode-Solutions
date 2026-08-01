@@ -1,0 +1,111 @@
+# LeetCode Solutions
+
+> 🚀 A curated collection of my **LeetCode** solutions, documenting my journey in mastering **Data Structures & Algorithms**, improving problem-solving skills, and preparing for technical interviews.
+
+This repository serves as a personal archive of my accepted LeetCode solutions. It helps me track my progress, revisit previously solved problems, and continuously strengthen my understanding of algorithms and data structures through consistent practice.
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for coding interviews
+- Learn multiple algorithmic techniques
+- Write clean and optimized code
+- Build consistency through daily practice
+
+---
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hash Maps
+- Trees
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Heaps
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Prefix Sum
+- Bit Manipulation
+- Mathematics
+
+---
+
+## 🛠️ Language
+
+- C++
+
+---
+
+## 📈 Why This Repository?
+
+This repository helps me:
+
+- Track my coding progress
+- Revise previously solved problems
+- Practice optimized approaches
+- Prepare for coding interviews
+- Strengthen algorithmic thinking
+- Maintain consistency in DSA practice
+
+---
+
+## 🚀 Learning Journey
+
+While solving problems, I focus on:
+
+- Understanding the brute-force approach
+- Optimizing time and space complexity
+- Writing clean and readable code
+- Learning multiple approaches for the same problem
+- Recognizing common algorithmic patterns
+
+---
+
+## 🎯 Future Plans
+
+- Solve 500+ LeetCode problems
+- Add explanations for each solution
+- Organize problems by topic
+- Include multiple approaches
+- Add complexity analysis
+- Create revision notes
+- Include Blind 75, NeetCode 150, and Striver SDE Sheet solutions
+
+---
+
+## 👨‍💻 Author
+
+**Tanmay Paliwal**
+
+B.Tech Computer Science, NMIMS Indore
+
+Full Stack MERN Developer
+
+- GitHub: https://github.com/tanmaypaliwal576
+- LeetCode: https://leetcode.com/u/tanmay_paliwal_20
+- Email: tanmaypaliwal12345@gmail.com
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**. It motivates me to continue solving problems and sharing my learning journey.
+
+---
+
+## 📄 License
+
+This repository is maintained for learning, interview preparation, and educational purposes.
