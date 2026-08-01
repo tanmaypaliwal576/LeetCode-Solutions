@@ -116,10 +116,12 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
