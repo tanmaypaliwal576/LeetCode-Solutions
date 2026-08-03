@@ -116,12 +116,14 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -132,4 +134,13 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
