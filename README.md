@@ -121,6 +121,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +164,12 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
