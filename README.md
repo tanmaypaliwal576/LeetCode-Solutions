@@ -124,6 +124,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -193,6 +194,7 @@ This repository is maintained for learning, interview preparation, and education
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
