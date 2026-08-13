@@ -124,6 +124,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0238-product-of-array-except-self](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -178,6 +179,7 @@ This repository is maintained for learning, interview preparation, and education
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -195,6 +197,7 @@ This repository is maintained for learning, interview preparation, and education
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,4 +205,12 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
