@@ -139,6 +139,7 @@ This repository is maintained for learning, interview preparation, and education
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -176,6 +177,7 @@ This repository is maintained for learning, interview preparation, and education
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -245,7 +247,12 @@ This repository is maintained for learning, interview preparation, and education
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
