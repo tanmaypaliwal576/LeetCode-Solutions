@@ -197,6 +197,7 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -210,6 +211,7 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -260,6 +262,7 @@ This repository is maintained for learning, interview preparation, and education
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0344-reverse-string) |
