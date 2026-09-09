@@ -127,6 +127,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -153,6 +154,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -255,6 +257,7 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
