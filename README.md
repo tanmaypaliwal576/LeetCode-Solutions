@@ -142,6 +142,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -174,11 +175,13 @@ This repository is maintained for learning, interview preparation, and education
 | [0704-binary-search](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1552-magnetic-force-between-two-balls](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
 | ------- |
