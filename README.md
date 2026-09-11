@@ -132,6 +132,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0238-product-of-array-except-self](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -209,10 +210,12 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +223,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
