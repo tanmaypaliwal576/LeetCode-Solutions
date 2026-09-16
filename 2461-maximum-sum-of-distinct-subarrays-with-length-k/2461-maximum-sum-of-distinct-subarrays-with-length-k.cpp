@@ -2,23 +2,18 @@ class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         unordered_map<int,int> freq;
-        long long  totalsum = 0;
         long long result = 0;
-        for(int i=0 ; i<k;i++)
-        {
+        long long  totalsum = 0;
 
+        for(int i=0 ; i<k ; i++)
+        {
             freq[nums[i]]++;
-            totalsum += nums[i];
-        
-        } 
-
-        if(freq.size() == k)
-        {
-            result = totalsum;
+            totalsum+=nums[i];
         }
+        
+        if(freq.size() == k) result = totalsum;
 
-
-        for(int j = k ; j<nums.size() ; j++)
+        for(int j=k ; j<nums.size();j++)
         {
             freq[nums[j-k]]--;
             totalsum-=nums[j-k];
@@ -27,23 +22,15 @@ public:
             {
                 freq.erase(nums[j-k]);
             }
-            
-           
-                freq[nums[j]]++;
-                totalsum+=nums[j];
-        
 
-            if(freq.size() == k)
-            {
+            freq[nums[j]]++;
+            totalsum+=nums[j];
 
-                result = max(result,totalsum);
-            }
-
-
+if(freq.size() == k)
+            result = max(result , totalsum);
         }
 
 
-return result;
-        
+        return result;
     }
 };
