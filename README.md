@@ -130,6 +130,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0189-rotate-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -238,6 +239,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -278,10 +280,12 @@ This repository is maintained for learning, interview preparation, and education
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -304,4 +308,12 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
