@@ -265,6 +265,7 @@ This repository is maintained for learning, interview preparation, and education
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -316,4 +317,8 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
