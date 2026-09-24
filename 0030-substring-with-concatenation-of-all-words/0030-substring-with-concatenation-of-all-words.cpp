@@ -1,60 +1,60 @@
 class Solution {
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
-        vector<int> ans;
 
-        int wordLen = words[0].size();
-        int wordCount = words.size();
-        int totalLen = wordLen * wordCount;
+        unordered_map<string,int> freq_of_words;
 
-        if (s.size() < totalLen)
-            return ans;
+        int wordlen = words[0].length();
 
-        unordered_map<string, int> mp;
+        vector<int> result;
 
-        for (int i = 0; i < wordCount; i++) {
-            mp[words[i]]++;
+        for(int i = 0; i < words.size(); i++)
+        {
+            freq_of_words[words[i]]++;
         }
 
-        for (int start = 0; start < wordLen; start++) {
+        
+        for(int start = 0; start < wordlen; start++)
+{
+    int left = start;
+    int right = start;
 
-            int left = start;
-            int count = 0;
+    unordered_map<string,int> freq_of_s;
+    int count = 0;
 
-            unordered_map<string, int> seen;
+    while(right + wordlen <= s.length())
+    {
+        string temp = s.substr(right, wordlen);
 
-            for (int right = start; right + wordLen <= s.size(); right += wordLen) {
-
-                string word = s.substr(right, wordLen);
-
-                if (mp.find(word) == mp.end()) {
-                    seen.clear();
-                    count = 0;
-                    left = right + wordLen;
-                    continue;
-                }
-
-                seen[word]++;
-                count++;
-
-                while (seen[word] > mp[word]) {
-                    string leftWord = s.substr(left, wordLen);
-                    seen[leftWord]--;
-                    left += wordLen;
-                    count--;
-                }
-
-                if (count == wordCount) {
-                    ans.push_back(left);
-
-                    string leftWord = s.substr(left, wordLen);
-                    seen[leftWord]--;
-                    left += wordLen;
-                    count--;
-                }
-            }
+        if(freq_of_words.find(temp) == freq_of_words.end())
+        {
+            freq_of_s.clear();
+            count = 0;
+            right += wordlen;
+            left = right;
+            continue;
         }
 
-        return ans;
+        freq_of_s[temp]++;
+        count++;
+        right += wordlen;
+
+        while(freq_of_s[temp] > freq_of_words[temp])
+        {
+            string remove = s.substr(left, wordlen);
+
+            freq_of_s[remove]--;
+            count--;
+            left += wordlen;
+        }
+
+        if(count == words.size())
+        {
+            result.push_back(left);
+        }
+    }
+}
+
+        return result;
     }
 };
