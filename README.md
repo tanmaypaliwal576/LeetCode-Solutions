@@ -139,6 +139,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0704-binary-search](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -321,4 +322,16 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
