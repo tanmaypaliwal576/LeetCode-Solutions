@@ -1,35 +1,38 @@
 class Solution {
 public:
     bool validPalindrome(string s) {
+
         int left = 0;
-        int right = s.size() - 1;
-        while(left<right)
+        int right = s.length() - 1;
+
+        while(left <= right)
         {
-            if(tolower(s[left]) != tolower(s[right]))
+            if(s[left] != s[right])
             {
-                return isPalindrome(left+1 , right , s) || isPalindrome(left , right - 1,s);
-                
+               return isvalid( s , left + 1 ,  right) || isvalid( s ,  left ,  right - 1);
             }
+
             left++;
             right--;
+
         }
-
         return true;
-
     }
 
-    bool isPalindrome(int left , int right , string s)
+
+    bool isvalid(string s , int left ,   int right)
     {
-        while(left<right)
-        {
-            if(tolower(s[left]) != tolower(s[right]))
-            {
-                return false;
-                
-            }
-            left++;
-            right--;
-        }
-        return true;
+        while(left < right)
+
+{
+    if(s[left]!=s[right]) return false;
+
+    left++;
+    right--;
+} 
+
+return true;
+
+
     }
 };
