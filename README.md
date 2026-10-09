@@ -204,6 +204,7 @@ This repository is maintained for learning, interview preparation, and education
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -213,6 +214,7 @@ This repository is maintained for learning, interview preparation, and education
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -298,6 +300,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0005-longest-palindromic-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -346,4 +349,5 @@ This repository is maintained for learning, interview preparation, and education
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
