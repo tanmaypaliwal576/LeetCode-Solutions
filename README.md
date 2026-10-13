@@ -149,6 +149,7 @@ This repository is maintained for learning, interview preparation, and education
 | [1552-magnetic-force-between-two-balls](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ This repository is maintained for learning, interview preparation, and education
 | [0015-3sum](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repository is maintained for learning, interview preparation, and education
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaypaliwal576/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
